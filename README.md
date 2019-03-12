@@ -2,7 +2,7 @@
 Skill to determine when Mycroft AI has finished booting up.
 
 ## About 
-With this skill Mycroft will say when the boot up period has finished and is ready to receive commands.
+With this skill Mycroft will say "ready to obey" when the boot up period has finished and is ready to receive commands.
 
 ## Examples 
 
